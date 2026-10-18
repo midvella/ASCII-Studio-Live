@@ -82,19 +82,6 @@ npx serve .
 
 Ardından tarayıcınızdan `http://localhost:8080` adresine gidin.
 
-### 2. GitHub Pages ile Yayınlama ve Canlı Test
-
-Projeyi canlı olarak test etmek için:
-https://midvella.github.io/ASCII-Studio-Live/
-
-Kendi deponuzda yayınlamak için:
-1. Projeyi GitHub deponuza gönderin (push).
-2. Depo ayarlarından **Settings > Pages** sekmesine gidin.
-3. **Build and deployment** başlığı altında **Source** seçeneğini `Deploy from a branch` yapın.
-4. Dalı `main` (veya `master`), dizini `/ (root)` olarak seçip kaydedin.
-5. Siteniz doğrudan erişilebilir hale gelecektir.
-
----
 
 ## Klavye Kısayolları
 
