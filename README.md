@@ -114,4 +114,4 @@ ascii-live/
 
 ## Lisans
 
-Bu proje [MIT Lisansı](LICENSE) kapsamında lisanslanmıştır. Ticari ve kişisel amaçlarla serbestçe kullanılabilir, değiştirilebilir ve dağıtılabilir.
+Bu proje [LICENSE](LICENSE) kapsamında lisanslanmıştır. Ticari ve kişisel amaçlarla serbestçe kullanılabilir, değiştirilebilir ve dağıtılabilir.
